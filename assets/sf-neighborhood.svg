@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="560" viewBox="0 0 520 560" fill="none">
+<defs>
+  <pattern id="siding" width="12" height="11" patternUnits="userSpaceOnUse"><path d="M0 10.5h12" stroke="#c9d0c5" stroke-width=".65"/></pattern>
+  <pattern id="cream-siding" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 11.5h12" stroke="#d9d5c7" stroke-width=".65"/></pattern>
+  <pattern id="roof" width="18" height="12" patternUnits="userSpaceOnUse"><path d="M0 11.5h18M9 0v12" stroke="#818d80" stroke-width=".6"/></pattern>
+  <g id="window"><rect width="29" height="51" fill="#f8f7ef" stroke="#a6b09e" stroke-width="1.5"/><rect x="4" y="5" width="21" height="40" fill="#8b9c91"/><path d="M14.5 5v40M4 25h21" stroke="#e4e7dc" stroke-width="2"/><path d="M1 53h27" stroke="#a6b09e" stroke-width="3"/><path d="M6 7h6v16H6zM17 28h6v15h-6z" fill="#b8c6b9" opacity=".7"/></g>
+  <g id="bay"><path d="m0 8 11-8h49l11 8v65L60 82H11L0 73V8Z" fill="#ececde" stroke="#a3ac9b" stroke-width="1.2"/><path d="M11 0v82M60 0v82M0 8h71M0 73h71" stroke="#a3ac9b" stroke-width="1.2"/><path d="M16 14h38v53H16z" fill="#91a298"/><path d="M35 14v53M16 40h38" stroke="#eceee3" stroke-width="3"/><path d="M3 15h5v49H3zm60 0h5v49h-5z" fill="#a3b3a8"/><path d="M21 18h9v17h-9zm19 27h9v17h-9z" fill="#bdcbbf"/><path d="M-3 8h77M-3 74h77" stroke="#8e9b88" stroke-width="3"/></g>
+</defs>
+<path fill="#e5eae4" d="M0 0h520v560H0z"/>
+<path d="M0 184c81-33 113-20 175-4 50 14 68-32 121-33 73-1 136 33 224 0v108H0V184Z" fill="#ccd7cc"/>
+<path d="M0 216c83-32 128-7 196-2s104-19 167-6 106 13 157-1v56H0v-47Z" fill="#d7e0d8"/>
+<g opacity=".75" stroke="#be755d" fill="none">
+  <path d="M236 215h284" stroke-width="3"/><path d="M326 217V148h9v69m91 0v-92h10v92" stroke-width="3"/>
+  <path d="M324 151h13m-13 6h13m-13 33h13m-13 12h13m87-75h14m-14 7h14m-14 45h14m-14 20h14" stroke-width="3"/>
+  <path d="M237 211c45-2 74-23 93-63 21 39 40 45 57 41 18-5 31-24 44-64 31 54 57 78 89 82" stroke-width="1.8"/>
+  <path d="M253 209v6m16-10v10m16-18v18m16-30v30m16-50v50m30-40v40m16-28v28m16-25v25m16-29v29m16-44v44m36-64v64m16-40v40m16-25v25m16-16v16" stroke-width=".8"/>
+</g>
+<path d="M0 239c103-31 204-7 260-8 91-2 143-19 260-7v48H0v-33Z" fill="#e3e8e0" opacity=".9"/>
+<path d="M0 306c130-10 290-11 520-3v257H0V306Z" fill="#cbd4c6"/>
+<path d="M-20 464 533 405v155H-20v-96Z" fill="#bac7b7"/>
+<path d="m-20 493 553-56v24L-20 516v-23Z" fill="#e4e3d9"/><path d="m-20 516 553-55v99H-20v-44Z" fill="#aab8ab"/>
+<!-- Distant neighborhood homes -->
+<path d="M-20 314 43 270l65 44v139L-20 465V314Z" fill="#d7ddcf" stroke="#a5b19e" stroke-width="1.2"/>
+<path d="M-26 316 43 265l71 48" stroke="#8c9a87" stroke-width="5"/><path d="M-12 322h111v126l-111 13V322Z" fill="url(#siding)"/>
+<use href="#window" x="4" y="332"/><use href="#window" x="54" y="332"/>
+<use href="#window" x="4" y="397"/><path d="M55 395h29v56l-29 3v-59Z" fill="#8b9a88" stroke="#a6b09e" stroke-width="3"/>
+<!-- Warm cream Victorian -->
+<path d="M94 264h104l25 33v154L94 464V264Z" fill="#efeddf" stroke="#a5ae9d" stroke-width="1.4"/>
+<path d="m87 266 66-58 54 58H87Z" fill="#84917e"/><path d="m87 266 66-58 54 58H87Z" fill="url(#roof)"/>
+<path d="m85 266 68-62 57 61" stroke="#697a67" stroke-width="4" stroke-linejoin="round"/>
+<path d="M94 275h114v177L94 464V275Z" fill="url(#cream-siding)"/>
+<path d="M133 259v-14a16 16 0 0 1 32 0v14h-32Z" fill="#dfdfd0" stroke="#a3ae9a" stroke-width="1.5"/><path d="M139 257v-12a10 10 0 0 1 20 0v12h-20Z" fill="#8b9c91"/><path d="M149 235v23m-10-9h20" stroke="#e5e7db" stroke-width="2"/>
+<path d="M90 272h122M91 278h121" stroke="#a0ac93" stroke-width="3"/>
+<use href="#bay" x="109" y="291"/>
+<path d="M105 376h79v9h-79z" fill="#a2af95"/><path d="M113 385h14v68h-14zm50 0h14v62h-14z" fill="#d1d4bf" stroke="#9fa98f" stroke-width="1.2"/>
+<path d="M131 394h28v57l-28 3v-60Z" fill="#b86445"/><path d="M137 400h16v19h-16zm0 26h16v19h-16z" stroke="#e1a584" stroke-width="1.2"/><circle cx="154" cy="425" r="1.5" fill="#f7dfbe"/>
+<path d="M108 457h75v5h-75zm-6 6h87v5h-87zm-5 6h97v5H97z" fill="#c0c5b1" stroke="#929f89" stroke-width=".6"/>
+<!-- Main sage Victorian -->
+<path d="M220 260h128v177l-128 13V260Z" fill="#d5ddca" stroke="#96a28c" stroke-width="1.4"/>
+<path d="M220 266h128v171l-128 13V266Z" fill="url(#siding)"/>
+<path d="m211 259 70-66 77 66H211Z" fill="#7a8d77"/><path d="m211 259 70-66 77 66H211Z" fill="url(#roof)"/>
+<path d="m208 260 73-70 80 70" stroke="#6e8169" stroke-width="4" stroke-linejoin="round"/>
+<path d="M232 193v-21h13v34" fill="#b2bea5" stroke="#889c7e" stroke-width="1.4"/><path d="M229 171h19" stroke="#7c906f" stroke-width="4"/>
+<path d="M265 250v-12a16 16 0 0 1 32 0v12h-32Z" fill="#e4e8d8" stroke="#94a38a" stroke-width="1.5"/><path d="M271 249v-11a10 10 0 0 1 20 0v11h-20Z" fill="#81978a"/><path d="M281 228v21m-10-10h20" stroke="#e4e8d8" stroke-width="2"/>
+<path d="M217 264h135M216 271h137" stroke="#96a789" stroke-width="3"/><path d="M217 269h136" stroke="#f0efdf" stroke-width="2"/>
+<use href="#bay" x="238" y="287"/>
+<path d="M219 376h129M219 380h129" stroke="#92a184" stroke-width="2"/>
+<use href="#window" x="232" y="388"/>
+<path d="M284 389h42v51l-42 5v-56Z" fill="#efedde" stroke="#95a187" stroke-width="1.5"/><path d="M291 395h28v45l-28 3v-48Z" fill="#b85a39"/>
+<path d="M296 400h18v15h-18zm0 21h18v14h-18z" fill="#cb7958" stroke="#a34d30" stroke-width=".8"/><circle cx="314" cy="419" r="1.5" fill="#efd5a2"/>
+<path d="M281 446h51v5h-51zm-5 6h61v5h-61z" fill="#c0c8b4" stroke="#929f89" stroke-width=".7"/>
+<path d="M328 393h9v12h-9z" fill="#e3c787" stroke="#77886f"/><path d="M332.5 388v5" stroke="#77886f" stroke-width="1.5"/>
+<!-- Third home -->
+<path d="M367 277h111v145l-111 12V277Z" fill="#e3e1d0" stroke="#a1ab94" stroke-width="1.3"/>
+<path d="M367 280h111v142l-111 12V280Z" fill="url(#cream-siding)"/>
+<path d="m357 279 65-47 66 47H357Z" fill="#a1ad98"/><path d="m354 280 68-51 69 51" stroke="#829579" stroke-width="4" stroke-linejoin="round"/>
+<path d="M363 285h119" stroke="#b1b8a2" stroke-width="4"/><use href="#window" x="380" y="297"/><use href="#window" x="435" y="297"/>
+<path d="M365 356h114" stroke="#b2baa4" stroke-width="3"/>
+<use href="#window" x="380" y="370"/><path d="M437 370h30v54l-30 3v-57Z" fill="#84967e" stroke="#b6c0a9" stroke-width="3"/><path d="M441 376h22v19h-22" stroke="#a8b69e" stroke-width="1.5"/>
+<!-- Trees and quiet street details -->
+<path d="M488 422v-73m0 40-16-22m16 13 16-23" stroke="#7c8d72" stroke-width="3"/>
+<path d="M464 358c-7-17 2-34 18-36 18-8 35 10 29 26 10 16-4 36-21 31-18 10-36-6-26-21Z" fill="#9ead91"/>
+<path d="M487 382v-41" stroke="#7d906f" stroke-width="1.8"/>
+<path d="M212 442v-62" stroke="#809174" stroke-width="2.5"/><path d="M198 395c-12-11-8-29 6-33 5-16 24-9 24 4 12 10 8 27-4 31-7 11-22 9-26-2Z" fill="#a2b293"/>
+<path d="M211 410v-38" stroke="#829776" stroke-width="1.5"/>
+<path d="M348 426h17l-2 16-14 1-1-17Z" fill="#b87956"/><path d="M347 426c-5-11 0-20 7-16 2-13 13-10 10 1 10-3 12 7 2 15h-19Z" fill="#8da077"/>
+<path d="M44 458v-65" stroke="#6a7e68" stroke-width="2"/><path d="M38 391h12l-2-16h-8l-2 16Z" fill="#e9dbac" stroke="#6a7e68" stroke-width="1.5"/>
+<path d="M0 550 520 496" stroke="#c9d2c5" stroke-width="2"/>
+</svg>
